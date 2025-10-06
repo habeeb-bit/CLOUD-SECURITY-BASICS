@@ -82,12 +82,16 @@ Restore secure configurations.
 Conduct a post-incident review.
 
 🛠️ Common Cloud Security Tools
-Tool	Purpose
-AWS Security Hub	Centralized security management and compliance
-Azure Security Center	Threat protection and security posture management
-Google Security Command Center	Asset visibility and risk assessment
-Cloud Custodian	Policy enforcement and automation
-HashiCorp Vault	Secrets management
+
+| Tool | Purpose |
+|------|----------|
+| AWS Security Hub | Centralized security management and compliance |
+| Azure Security Center | Threat protection and security posture management |
+| Google Security Command Center | Asset visibility and risk assessment |
+| Cloud Custodian | Policy enforcement and automation |
+| HashiCorp Vault | Secrets management |
+
+
 🚀 Best Practices Summary
 
 Enable MFA for all users.
